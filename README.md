@@ -33,15 +33,6 @@ This project analyzes customer churn data for a telecom company using **SQL Serv
 * Geographic Churn Distribution
 * Service Usage Analysis
 
-## Project Status
-
-✅ SQL ETL Completed
-✅ Data Modeling & Transformation Completed
-✅ Executive Power BI Dashboard Completed
-
-*Future enhancements include customer churn prediction using a Random Forest machine learning model and a predictive analytics dashboard.*
-
-
 ## Dashboard Preview
 
 <img width="1319" height="744" alt="image" src="https://github.com/user-attachments/assets/6f05f07f-ee13-40b2-a604-b5afc3fc6755" />
